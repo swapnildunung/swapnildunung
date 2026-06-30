@@ -74,9 +74,9 @@ These projects demonstrate:
 
 ## 📉 Six Sigma
 
-- Dispatch Count Reduction
-- Average Handling Time Improvement
-- Handling Time Optimization
+- **[Dispatch Count Reduction](https://github.com/swapnildunung/dispatch-count-reduction-six-sigma)**
+- **[Average Handling Time Improvement](https://github.com/swapnildunung/average-handling-time-improvement-six-sigma)**
+- **[Handling Time Optimization](https://github.com/swapnildunung/handling-time-optimization-six-sigma)**
 
 Key focus areas:
 - Process Improvement
