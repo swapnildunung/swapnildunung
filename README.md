@@ -105,9 +105,9 @@ Key focus areas:
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
-- 📧 Email: YOUR_EMAIL
-- 💻 GitHub: https://github.com/YOUR_USERNAME
+- 💼 LinkedIn: www.linkedin.com/in/swapnildunung
+- 📧 Email: swapnil.dunung@gmail.com
+- 💻 GitHub: https://github.com/swapnildunung
 
 ---
 
