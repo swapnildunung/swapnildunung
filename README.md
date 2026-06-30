@@ -40,7 +40,7 @@ My portfolio demonstrates end-to-end analytical projects using **SQL, Python, Ta
 
 ## 📊 SQL
 
-- **Target Business Analysis**
+- **[Target Business Analysis](https://github.com/swapnildunung/target-business-analysis-sql)**
   - End-to-end SQL analysis using Google BigQuery
   - Customer behaviour, logistics, payment and business insights
 
@@ -48,7 +48,7 @@ My portfolio demonstrates end-to-end analytical projects using **SQL, Python, Ta
 
 ## 📈 Tableau
 
-- **Global Superstore Sales Analysis**
+- **[Global Superstore Sales Analysis](https://github.com/swapnildunung/global-superstore-sales-EDA-tableau)**
   - Interactive executive dashboard
   - Sales, Profitability and Regional Performance Analysis
 
@@ -56,11 +56,11 @@ My portfolio demonstrates end-to-end analytical projects using **SQL, Python, Ta
 
 ## 🐍 Python
 
-- **Netflix Content Analytics & EDA**
-- **Aerofit Customer & Product Segmentation**
-- **Walmart Customer Purchase Behavior Analysis**
-- **Yulu Bike Rental Demand Analysis**
-- **Delhivery Logistics Feature Engineering & Delivery Performance Analysis**
+- **[Netflix Content Analytics & EDA](https://github.com/swapnildunung/netflix-movies-tv-shows-eda)**
+- **[Aerofit Customer & Product Segmentation](https://github.com/swapnildunung/aerofit-customer-product-segmentation)**
+- **[Walmart Customer Purchase Behavior Analysis](https://github.com/swapnildunung/walmart-customer-purchase-analysis)**
+- **[Yulu Bike Rental Demand Analysis](https://github.com/swapnildunung/yulu-bike-rental-demand-analysis)**
+- **[Delhivery Logistics Feature Engineering & Delivery Performance Analysis](https://github.com/swapnildunung/delhivery-delivery-performance-analysis)**
 
 These projects demonstrate:
 - Data Cleaning
